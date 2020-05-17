@@ -1,0 +1,46 @@
+body{
+    margin: 0em;
+}
+#front-button{
+    height: 5em;
+    border-radius: 1em;
+    border: .1em solid;
+}
+#front-button:hover{
+    background: rgb(26, 24, 24);
+    border: #ffffff;
+    color: white;
+}
+#nav-buttn{
+    color: white;
+}
+#navbarDropdown{
+    color: white;
+}
+#drop_down:hover{
+    background: powderblue;
+
+}
+#front-div:hover{
+    transform: scale(1.1);
+}
+#nikhil{
+    width: 25em;
+    height:auto;
+}
+#About{
+    background:#f2f2f2;
+}
+#section-bg{
+    background: #f0f0f0;
+}
+#contact{
+    background:#a7a7a7;
+}
+#insta{
+    background:#d72d5c;
+    color: white;
+}
+#youtube{
+    color: white;
+}
