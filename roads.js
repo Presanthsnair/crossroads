@@ -10,5 +10,5 @@ function display(){
     
 }
 function upcoming(){
-    alert("sorry The series is upcoming ")
+    alert("Sorry the series is upcoming ")
 }
